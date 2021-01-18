@@ -5,3 +5,5 @@ so this is a tutorial for  git
 we start with the function Added
 Added:is a keyword used to add new date to the exisiting file
 next is master file:its the main file or 1st version of a particular ghit file
+commit means a save 
+so in  short commit changes means save changes
